@@ -1,6 +1,6 @@
 # DayX.py
 #
-# First attempt at doing Day X of Advent of Code 2022
+# First attempt at doing Day X of Advent of Code 2023
 
 import time
 import numpy

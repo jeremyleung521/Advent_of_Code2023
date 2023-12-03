@@ -1,6 +1,6 @@
 # Day2.py
 #
-# First attempt at doing Day 2 of Advent of Code 2022
+# First attempt at doing Day 2 of Advent of Code 2023
 
 import time
 import numpy
